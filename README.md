@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a app that that gives enviorment to students to study from timer ,statics , group , study helper ai ,  informative reels <br>🌱 upcoming projects - >scratch chatgpt, prototype llm model in c languge (all the llm models are based on python and c 2x -10x faster than python)<br>💬 Ask me about machine learning , app dev ,ai <br>⚡ aspiring ml /ai student 
+🔭discontinued this project I’m currently working on a app that that gives enviorment to students to study from timer ,statics , group , study helper ai ,  informative reels <br>🌱 upcoming projects - >scratch chatgpt, prototype llm model in c languge (all the llm models are based on python and c 2x -10x faster than python)<br>💬 Ask me about machine learning , app dev ,ai <br>⚡ aspiring ml /ai student 
 
 
 ## 🌐 Socials:
